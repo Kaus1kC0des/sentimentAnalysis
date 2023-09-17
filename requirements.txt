@@ -1,0 +1,14 @@
+pandas
+numpy
+seaborn
+matplotlib
+scipy
+scikit-learn
+scikit-learn-intelex
+transformers
+text_hammer
+spacy
+tensorflow
+opendatasets
+datasets
+torch
