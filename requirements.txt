@@ -1,4 +1,4 @@
-pandas
+git tpandas
 numpy
 seaborn
 matplotlib
