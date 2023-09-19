@@ -1,4 +1,4 @@
-git tpandas
+pandas
 numpy
 seaborn
 matplotlib
@@ -12,3 +12,4 @@ tensorflow
 opendatasets
 datasets
 torch
+accelerate
