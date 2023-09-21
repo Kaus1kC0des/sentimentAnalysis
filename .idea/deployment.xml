@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="kausik@34.101.228.120:22 key" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="kausik@34.101.228.120:22 key">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/kausik/" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="kausik@34.93.58.60:22 key">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_625" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

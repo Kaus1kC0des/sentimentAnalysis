@@ -13,3 +13,5 @@ opendatasets
 datasets
 torch
 accelerate
+
+requests~=2.22.0
