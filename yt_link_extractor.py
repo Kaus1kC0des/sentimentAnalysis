@@ -1,6 +1,7 @@
-import re
+
+import regex as re
 import requests
-import googleapiclient.discovery
+import googleapi.client.discovery
 import googleapiclient.errors
 import pandas as pd
 
